@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=laharl143&label=Profile%20views&color=0e75b6&style=flat" alt="laharl143" /> </p>
 <h1 align="center">Hi there! ✌</h1>
 
-
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47wp91l6wds6rlx7p3674si5t3x4a1s3vo6j9nqnbe&rid=giphy.gif&ct=s">
 
 <h2>About me 👦</h2>
 <p>• 👀 I am <strong>Erskine Duenas</strong> aka "laharl143", a recent Engineering graduate </p>
@@ -10,10 +10,10 @@
 <p>• 🌱 I’m currently learning React JS, Web 3 Dev</p>
 <p>• 💞️ Interests: exercise, reading a book, Cryptography</p>
 <p>• 💬 Ask me about anything</p>
-<p>• 🔭 I’m currently working on [web3/blockchain tech: we are DRDC](https://wearedrdc.io/)
+<p>• 🔭 I’m currently working on [web3/blockchain tech: we are DRDC] (https://wearedrdc.io/)
 <p>• 😀 Prounouns: he/his</p>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47wp91l6wds6rlx7p3674si5t3x4a1s3vo6j9nqnbe&rid=giphy.gif&ct=s">
+
 <!---
 laharl143/laharl143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
