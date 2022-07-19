@@ -10,7 +10,7 @@
 <p>• 🌱 I’m currently learning React JS, Web 3 Dev</p>
 <p>• 💞️ Interests: exercise, reading a book, Cryptography</p>
 <p>• 💬 Ask me about anything</p>
-<p>• 🔭 I’m currently working on [web3/blockchain tech: we are DRDC] (https://wearedrdc.io/)
+<p>• 🔭 I’m currently working on a web3/blockchain tech: we are DRDC (https://wearedrdc.io/)
 <p>• 😀 Prounouns: he/his</p>
 
 
