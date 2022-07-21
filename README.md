@@ -71,9 +71,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laharl143" alt="laharl143" /></a> </p>
--->
+
 
 
 
@@ -86,3 +84,5 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laharl143&" alt="laharl143" /></p>
               
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laharl143" alt="laharl143" /></a> </p>
