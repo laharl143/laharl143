@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=laharl143&label=Profile%20views&color=0e75b6&style=flat" alt="laharl143" /> </p>
-<h1 align="left">Hi therre! ✌</h1>
+<h1 align="left">Hi there! ✌</h1>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47wp91l6wds6rlx7p3674si5t3x4a1s3vo6j9nqnbe&rid=giphy.gif&ct=s">
 
