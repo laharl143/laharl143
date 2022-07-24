@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47wp91l6wds6rlx7p3674si5t3x4a1s3vo6j9nqnbe&rid=giphy.gif&ct=s">
 
 <h2>About me 👦</h2>
-<p>• 👀 I am <strong>Erskine Duenas</strong> aka "laharl143", a recent Engineering graduate </p>
+<p>• 👀 I am <strong>Erskine Duenas</strong> aka "laharl143", an Engineering graduate </p>
 <p>• 💻 I’m currently aiming to be a full stack developer </p>
 <p>• 🎓 I graduated in 2022 from Technological University of the Philippines, Manila (BS Electronics and Communication Engineering)</p>
 <p>• 🌱 I’m currently learning React JS, Web 3 Dev</p>
