@@ -5,7 +5,7 @@
 
 <h2>About me 👦</h2>
 <p>• 👀 I am <strong>Erskine Duenas</strong> aka "laharl143", a Tech Enthusiast </p>
-<p>• 💻 I’m practicing everyday to be a better Full-Stack Developer </p>
+<p>• 💻 I work on improving my Full-Stack Developer skills every day. </p>
 <p>• 🎓 I graduated in 2022 from Technological University of the Philippines, Manila (BS Electronics and Communication Engineering)</p>
 <p>• 🌱 I’m currently mastering JavaScript, Web 3 Dev</p>
 <p>• 📌 Interests: exercise, reading a book, Cryptography</p>
