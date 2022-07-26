@@ -5,9 +5,9 @@
 
 <h2>About me 👦</h2>
 <p>• 👀 I am <strong>Erskine Duenas</strong> aka "laharl143", a Tech Enthusiast </p>
-<p>• 💻 I’m currently aiming to be a full stack developer </p>
+<p>• 💻 I’m learning/practicing everyday to be a better full stack developer </p>
 <p>• 🎓 I graduated in 2022 from Technological University of the Philippines, Manila (BS Electronics and Communication Engineering)</p>
-<p>• 🌱 I’m currently learning React JS, Web 3 Dev</p>
+<p>• 🌱 I’m currently mastering JavaScript, Web 3 Dev</p>
 <p>• 📌 Interests: exercise, reading a book, Cryptography</p>
 <p>• 💼 I’m currently working on a web3/blockchain tech: we are DRDC (https://wearedrdc.io/) as a freelancer
 <p>• 😀 Prounouns: he/his</p>
