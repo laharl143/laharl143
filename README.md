@@ -9,7 +9,7 @@
 <p>• 🎓 I graduated in 2022 from Technological University of the Philippines, Manila (BS Electronics and Communication Engineering)</p>
 <p>• 🌱 I'm currently mastering JavaScript and learning about Web 3 Development.</p>
 <p>• 📌 Interests: exercise, reading a book, Cryptography</p>
-<p>• 💼 As a freelancer, I'm currently working on a web3/blockchain company called DRDC(https://wearedrdc.io/).
+<!--<p>• 💼 As a freelancer, I'm currently working on a web3/blockchain company called DRDC(https://wearedrdc.io/). -->
 <p>• 😀 Prounouns: he/his</p>
 
 
