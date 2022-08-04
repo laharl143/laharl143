@@ -10,8 +10,8 @@
 <p>• 🌱 I'm currently mastering JavaScript and learning about Web 3 Development.</p>
 <p>• 📌 Interests: exercise, reading a book, Cryptography.</p>
 <!--<p>• 💼 As a freelancer, I'm currently working on a web3/blockchain company called DRDC(https://wearedrdc.io/). -->
-<p>• 😀 Prounouns: he/his</p>
 <p>• 🐒 Yes, my profile picture is an NFT that I own.</p>
+<p>• 😀 Prounouns: he/his</p>
 
 
 <!---
