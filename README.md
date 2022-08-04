@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47wp91l6wds6rlx7p3674si5t3x4a1s3vo6j9nqnbe&rid=giphy.gif&ct=s">
 
 <h2>About me 👦</h2>
-<p>• 👀 I am <strong>Erskine Duenas</strong>, a Tech Enthusiast </p>
+<p>• 👀 I am <strong>Erskine Duenas</strong>, a Tech Enthusiast. </p>
 <p>• 💻 I consider myself a "forever student" eager to add more on my knowledge on Web development and stay in tune with the latest Web development technologies. </p>
-<p>• 🎓 I graduated in 2022 from Technological University of the Philippines, Manila (BS Electronics and Communication Engineering)</p>
+<p>• 🎓 I graduated in 2022 from Technological University of the Philippines, Manila (BS Electronics and Communication Engineering).</p>
 <p>• 🌱 I'm currently mastering JavaScript and learning about Web 3 Development.</p>
-<p>• 📌 Interests: exercise, reading a book, Cryptography</p>
+<p>• 📌 Interests: exercise, reading a book, Cryptography.</p>
 <!--<p>• 💼 As a freelancer, I'm currently working on a web3/blockchain company called DRDC(https://wearedrdc.io/). -->
 <p>• 😀 Prounouns: he/his</p>
 
