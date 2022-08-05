@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <br>
 <h2>Tech Stack</h2>
-<h3>Current Skills</h3>
+<h3>Current</h3>
 
 <p align="left">
 
@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<h3>Future Skills: <em>my checklist</em></h3>
+<h3><em>my checklist</em></h3>
 
 <p align="left">
 
