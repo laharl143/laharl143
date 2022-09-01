@@ -7,7 +7,14 @@
 <p>• 👀 I am <strong>Erskine Duenas</strong>, a Tech Enthusiast. </p>
 <p>• 💻 I view myself as a "lifelong learner," eager to deepen my understanding of technological development and keep up with the most recent technologies. I'm keen on building into the habit of being uncomfortable and regularly learning something new. That is my way to lifelong learning and growth. </p>
 <p>• 🎓 I graduated in 2022 from Technological University of the Philippines, Manila (BS Electronics and Communication Engineering).</p>
-<p>• 🌱 I'm currently mastering JavaScript and learning about Web 3 Development.</p>
+<p>• 🌱 I am constantly learning a programming language on a daily basis.</p>
+<ul type="square">
+<li>Monday = Python</li>
+<li>Tuesday = ReactJs</li>
+<li>Wednesday = C/C++</li>
+<li>Thursday = JAVA</li>
+<li>Friday = Swift</li>
+</ul>
 <p>• 📌 Interests: exercise, reading a book, Cryptography.</p>
 <!--<p>• 💼 As a freelancer, I'm currently working on a web3/blockchain company called DRDC(https://wearedrdc.io/). -->
 <p>• 🐒 My profile picture is an NFT that I own.</p>
