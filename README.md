@@ -13,7 +13,7 @@
 <li>Tuesday = ReactJs</li>
 <li>Wednesday = C/C++</li>
 <li>Thursday = JAVA</li>
-<li>Friday = Swift</li>
+<li>Friday = Kotlin</li>
 </ul>
 <p>• 📌 Interests: exercise, reading a book, Cryptography.</p>
 <!--<p>• 💼 As a freelancer, I'm currently working on a web3/blockchain company called DRDC(https://wearedrdc.io/). -->
