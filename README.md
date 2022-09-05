@@ -81,7 +81,10 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-
+<b>*GitHub Stats*:</b> 
+  
+  <b> </b> 
+  
 <p align="center">
 <table>
 <tr>
@@ -94,11 +97,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/laharl143"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laharl143&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
   </td>
   
-  <td>
-  <a href="https://github.com/laharl143">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laharl143&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="laharl143's Github Stats" height="180rem" />
-  </a>
-  </td>
+  
   
 </tr>
 </table>
@@ -107,6 +106,12 @@ You can click the Preview link to take a look at your changes.
 
 
 <!----------------
+
+<td>
+  <a href="https://github.com/laharl143">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laharl143&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="laharl143's Github Stats" height="180rem" />
+  </a>
+  </td>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laharl143&&theme=radical" alt="laharl143" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laharl143&show_icons=true&locale=en&theme=radical" alt="laharl143" /></p>
