@@ -82,15 +82,38 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
+<p align="center">
+<table>
+<tr>
+
+  <td>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laharl143&&theme=radical&hide_border=true" alt="laharl143" height="180rem"/></p>
+  </td>
+    
+  <td> 
+<a href="https://github.com/laharl143"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laharl143&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
+  </td>
+  
+  <td>
+  <a href="https://github.com/laharl143">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laharl143&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="laharl143's Github Stats" height="180rem" />
+  </a>
+  </td>
+  
+</tr>
+</table>
+</p>
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laharl143&show_icons=true&locale=en" alt="laharl143" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laharl143&" alt="laharl143" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laharl143&show_icons=true&locale=en&layout=compact" alt="laharl143" /></p>
 
 <!----------------
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laharl143&&theme=radical" alt="laharl143" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laharl143&show_icons=true&locale=en&theme=radical" alt="laharl143" /></p>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laharl143" alt="laharl143" /></a> </p>
+
+
+  
 ----------------->
