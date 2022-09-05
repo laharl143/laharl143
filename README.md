@@ -82,6 +82,9 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
+<br>
+<br>
+
 <b>*GitHub Stats*:</b> 
   
   <b> </b> 
@@ -91,19 +94,17 @@ You can click the Preview link to take a look at your changes.
 <tr>
 
   <td>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laharl143&&theme=radical&hide_border=true" alt="laharl143" height="180rem"/></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laharl143&&theme=tokyonight&hide_border=true" alt="laharl143" height="180rem"/></p>
   </td>
     
   <td> 
-<a href="https://github.com/laharl143"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laharl143&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
+<a href="https://github.com/laharl143"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laharl143&layout=compact&theme=tokyonight&hide_border=true" height="180rem"/></a>
   </td>
-  
   
   
 </tr>
 </table>
 </p>
-
 
 
 <!----------------
