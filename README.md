@@ -20,7 +20,7 @@
 <p>• 😀 Prounouns: he/his</p>
 
 
-<!--------------
+<!---------------
 laharl143/laharl143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ------------>
@@ -107,7 +107,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<!-------------------
+<!--------------------
 
 <td>
   <a href="https://github.com/laharl143">
@@ -123,4 +123,4 @@ You can click the Preview link to take a look at your changes.
 
 
   
------------------->
+-------------------->
