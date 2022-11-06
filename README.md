@@ -121,6 +121,51 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laharl143" alt="laharl143" /></a> </p>
 
+Erskine Duenas Vscode Extensions:
+AREPL for python
+Auto Close Tag
+Auto Rename Tag
+AutoDocstring - Python
+Ayu
+Better C++ Syntax
+Brackets Dark - THEME (currently using)
+C/C++
+C/C++ Extension Pack
+C/C++ Runner
+C/C++ Themes
+CMake
+CMake Tools
+Code Runner
+Code Specc Checker
+CodeLLDB
+Colonize
+Color Highlight
+Debugger for Java
+Doxygen Documentation Generator
+EJS language support
+ES7+ React/Redux/React-Native snippets
+ESLint
+Extension Pack for Java
+file-icons
+Github Pull Requests and Issues
+IntelliCode
+Intellicode API Usage examples
+Jinja
+Live Server
+Material Icon Theme
+Prettier - Code formatter
+Smart Column Indenter
+stylelint-plus
+Toggle Column Selection
 
-  
+Erskine Duenas Commonly Used setting configuration:
+Autosave ✓
+Files: Auto Save - afterDelay
+Editor: Font Size - 20
+Editor: Font Family - Consolas, 'Courier New', monospace
+Editor: Tab Size - 4
+Editor: Render Whitespace - selection
+
+
+
 -------------------->
