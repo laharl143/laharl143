@@ -128,6 +128,7 @@ Auto Rename Tag
 AutoDocstring - Python
 Ayu
 Better C++ Syntax
+Bracket Colorizer
 Brackets Dark - THEME (currently using)
 C/C++
 C/C++ Extension Pack
