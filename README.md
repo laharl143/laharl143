@@ -10,7 +10,7 @@
 <p>• 🌱 I am constantly learning a programming language on a daily basis.</p>
 <ul type="square">
 <li>Monday & Tuesday = JAVA</li>
-<li>Wednesday & Thursday = C/C++</li>
+<li>Wednesday & Thursday = JavaScript</li>
 <li>Friday = Nihongo</li>
 <li>Saturday & Sunday = Python</li>
 </ul>
