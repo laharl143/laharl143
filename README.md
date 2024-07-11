@@ -9,10 +9,7 @@
 <p>• 🎓 I graduated in 2022 from the Technological University of the Philippines, Manila (BS in Electronics and Communication Engineering).</p>
 <p>• 🌱 I am constantly learning a programming language on a daily basis.</p>
 <ul type="square">
-<li>Monday & Tuesday = JAVA</li>
-<li>Wednesday & Thursday = JavaScript</li>
-<li>Friday = Nihongo</li>
-<li>Saturday & Sunday = Python</li>
+<li>Monday to Sunday = JavaScript/TypeScript with React</li>
 </ul>
 <p>• 📌 Interests: exercise, reading a book, Cryptography.</p>
 <!--<p>• 💼 As a freelancer, I'm currently working on a web3/blockchain company called DRDC(https://wearedrdc.io/). -->
