@@ -9,7 +9,7 @@
 <p>• 🎓 I graduated in 2022 from the Technological University of the Philippines, Manila (BS in Electronics and Communication Engineering).</p>
 <p>• 🌱 I am constantly learning on a daily basis trying to be proficient in:</p>
 <ul type="square">
-<li>Vanilla JavaSciprt for Web Dev</li>
+<li>Vanilla JavaScript for Web Dev</li>
 <li>Go for Back-end</li>
 </ul>
 <p>• 📌 Interests: exercise, reading a book, Cryptography.</p>
