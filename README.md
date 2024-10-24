@@ -7,7 +7,7 @@
 <p>• 👀 I am <strong>Erskine Duenas</strong>, a Software Engineer. </p>
 <p>• 💻 I view myself as a "lifelong learner," eager to deepen my understanding of technological development and keep up with the most recent technologies. I'm keen on building into the habit of being uncomfortable and regularly learning something new. That is my way to lifelong learning and growth. </p>
 <p>• 🎓 I graduated in 2022 from the Technological University of the Philippines, Manila (BS in Electronics and Communication Engineering).</p>
-<p>• 🌱 I am constantly learning a programming language on a daily basis.</p>
+<p>• 🌱 I am constantly learning on a daily basis.</p>
 <ul type="square">
 <li>Monday to Sunday = JavaScript/TypeScript with React</li>
 </ul>
