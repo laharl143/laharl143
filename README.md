@@ -10,7 +10,7 @@
 <p>• 🌱 I am constantly learning and striving to become proficient in:</p>
 <ul type="square">
 <li>Vanilla JavaScript/TypeScript for Web Development</li>
-<li>Go and Java for Back-End Development</li>
+<li>ava for Back-End Development</li>
 <li>Python for Automation and Hobbies</li>
 </ul>
 <p>• 📌 Interests: exercise, reading books, and cryptography.</p>
