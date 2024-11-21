@@ -64,6 +64,7 @@ You can click the Preview link to take a look at your changes..
 
 <p align="left">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"> 
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
 </p>
 
 <br>
