@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes..
 <br>
 <h2>Tech Stacks</h2>
 
-<b>*Languages*:</b> 
+<b>*Languages*:</b> <br>
 <p align="left">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes..
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> 
 </p>
 
-<b>*Frameworks, Platforms and Libraries*:</b> 
+<b>*Frameworks, Platforms and Libraries*:</b> <br>
 <p align="left">
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> 
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes..
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> 
 </p>
 
-<b>*Database*:</b> 
+<b>*Database*:</b> <br>
 <p align="left">
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white"> 
