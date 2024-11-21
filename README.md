@@ -59,9 +59,7 @@ You can click the Preview link to take a look at your changes..
 <b>*Checklist to learn*:</b> 
 
 <p align="left">
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-  <img src=""> 
-  <img src=""> 
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"> 
 </p>
 
 <br>
