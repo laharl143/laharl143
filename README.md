@@ -35,7 +35,6 @@ You can click the Preview link to take a look at your changes..
 </p>
 
 <br>
-<br>
 
 <b>*Frameworks, Platforms and Libraries*:</b> <br>
 <p align="left">
@@ -51,7 +50,6 @@ You can click the Preview link to take a look at your changes..
 </p>
 
 <br>
-<br>
 
 <b>*Database*:</b> <br>
 <p align="left">
@@ -62,7 +60,6 @@ You can click the Preview link to take a look at your changes..
 </p>
 
 <br>
-<br>
 
 <b>*Checklist to learn*:</b> 
 
@@ -70,7 +67,6 @@ You can click the Preview link to take a look at your changes..
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"> 
 </p>
 
-<br>
 <br>
 
 <b>*GitHub Stats*:</b> 
