@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47wp91l6wds6rlx7p3674si5t3x4a1s3vo6j9nqnbe&rid=giphy.gif&ct=s">
 
 <h2>About me 👦</h2>
-<p>• 👀 I am <strong>Erskine Duenas</strong>, a Full-Stack Software Engineer that specialized in back-end Development. </p>
+<p>• 👀 I am <strong>Erskine Duenas</strong>, a Full-Stack Software Engineer with a strong focus on Back-End Development. With expertise in designing APIs, managing databases, and optimizing server-side performance, I aim to create seamless experiences for users and developers alike. </p>
 <p>• 💻 I view myself as a "lifelong learner," eager to deepen my understanding of technological development and keep up with the most recent technologies. I'm keen on building into the habit of being uncomfortable and regularly learning something new. That is my way to lifelong learning and growth. </p>
 <p>• 🎓 I graduated in 2022 from the Technological University of the Philippines, Manila (BS in Electronics and Communication Engineering).</p>
 <p>• 🌱 I am constantly learning on a daily basis trying to be proficient in:</p>
