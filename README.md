@@ -23,7 +23,6 @@ You can click the Preview link to take a look at your changes..
 -------------->
 <br>
 <h2>Tech Stacks</h2>
-<!--     <img src="">      -->
 <b>*Languages*:</b> 
 <p align="left">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
