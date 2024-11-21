@@ -9,7 +9,7 @@
 <p>• 🎓 I graduated in 2022 from the Technological University of the Philippines, Manila (BS in Electronics and Communication Engineering).</p>
 <p>• 🌱 I am constantly learning on a daily basis trying to be proficient in:</p>
 <ul type="square">
-<li>Vanilla JavaScript for Web Dev</li>
+<li>Vanilla JavaScript/TypeScript for Web Dev</li>
 <li>Go and Java for Back-end</li>
 <li>Python for Automation and Hobby</li>
 </ul>
@@ -31,10 +31,7 @@ You can click the Preview link to take a look at your changes..
 <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"> 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> 
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> 
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
 </p>
 
 <b>*Frameworks, Platforms and Libraries*:</b> 
@@ -47,6 +44,7 @@ You can click the Preview link to take a look at your changes..
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> 
 </p>
 
 <b>*Database*:</b> 
