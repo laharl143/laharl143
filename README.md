@@ -25,6 +25,8 @@ You can click the Preview link to take a look at your changes..
 <h2>Tech Stacks</h2>
 
 <b>*Languages*:</b> <br>
+<br>
+<br>
 <p align="left">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
